@@ -1,3 +1,6 @@
+> **Historical archive — 39C3 (2025), not current contact information.**
+> This snapshot contains outdated details, including references to 38C3. For 40C3 use the [current emergency card](../40C3%20Emergency%20Info.md).
+
 # Emergency Information for [39c3][0]
 
 ## English

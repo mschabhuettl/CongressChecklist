@@ -1,11 +1,17 @@
 # CongressChecklist
 
+**40C3: 27–30 December 2026 · Hamburg Messe**
+
+Start with the [compact 40C3 checklist (Deutsch)](40C3.md) for dates, preparation and your day bag. Keep the [40C3 emergency information (Deutsch / English)](40C3%20Emergency%20Info.md) available offline.
+
+This fork adapts [MacLemon's CongressChecklist](https://github.com/MacLemon/CongressChecklist) for 40C3. The general checklist and contributor credits remain below; the original [license](LICENSE) is retained. Event references were checked on **27 October 2026**. Recheck the [official 40C3 information][53] before travelling, especially entrances, maps and services still being prepared.
+
 List of things to do, to pack and tips on attending a congress, conference or other event, especially Chaos Communication Congress.
 It's been handy for general travel as well.
 
 This list is irregularly updated (and pushed). You may want to refresh regularly. :-) Pull requests are welcome!
 
-If you're attenting a camping event, with the great outdoors, evil daystar and foliage, you'll also want to check out [@Columbia19][144]'s [Camping-Checklist][43] in addition!
+If you're attending a camping event, with the great outdoors, evil daystar and foliage, you'll also want to check out [@Columbia19][144]'s [Camping-Checklist][43] in addition!
 
 ## Content
 
@@ -16,6 +22,7 @@ If you're attenting a camping event, with the great outdoors, evil daystar and f
 - [🐶 If you travel with your dog](#-if-you-travel-with-your-dog)
 - [🚗 If you travel by car](#-if-you-travel-by-car)
 - [⛺️ Camp](#%EF%B8%8F-camp)
+- [📅 Schedule](#-schedule)
 - [🔒 Securing your devices](#-securing-your-devices)
 - [📫 Staying up-to-date](#-staying-up-to-date)
 - [🪽 Angel Special](#-angel-special)
@@ -60,51 +67,25 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Feed your sourdough
 - Clean your coffee-machine and take out the trash.
 - Close all windows and set all radiator thermostats
-- When bringing credit cards and not living in Germany: call your bank and have them pre-approve payments from Germany. Otherwise, your bank may decline all purchases when they don't know you're traveling and suspect fraud.
-- Stock you pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
-- (optional but recommended) Visit the [congress overview page][53], create account in the [congress wiki][12], [add your projects][13], [find your assembly][14] and join the [39C3 chat][54].
-- (optional but recommended) [Read the Engel Guide][150] and create an account in the [Engelsystem][151].
-- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
-- (optional but recommended) [Pre-order your merch][55] if the event you're visiting offers it
+- Check your bank's travel settings, payment limits and card-blocking contact details before leaving.
+- Stock your pantry/freezer with some food that keeps so you have something to eat when you get home (that doesn't rely on shops/restaurants being open).
+- Visit the [40C3 overview][53], check the [Hub][12] for assemblies and projects as they become available, and join the [40C3 Matrix space][54]. See [40C3.md](40C3.md) for ticket and assembly deadlines.
+- (optional but recommended) [Read the Angel Guide][150] and check the [40C3 overview][53] for the current Engelsystem and registration instructions.
+- Prepare a Fahrplan app for Android ([Play Store][26], [source][27]) or iOS ([App Store][28]); check 40C3 support and download the schedule when published.
+- Check the [official announcements][55] for merchandise pre-orders and collection instructions when available.
 
 ## 📦 Things to send
 
-Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
+Arrange bulky assembly equipment with the [40C3 logistics team][contacts] before shipping it. Confirm the recipient, delivery window and return transport; do not assume the venue can accept parcels for individual visitors.
 
-### Items that are explicitly forbidden to bring on a plane
+### If you travel by plane
 
-- Ammunition
-- Fireworks
-- Explosives
-- Lighter fluid
-- Lighter gas (Butane)
-- Matches
-- Lighters (*only* allowed on your person)
-- Butane cartridges
-- Propane cartridges
-- Radioactive medication
-- Anything toxic
-- Lead acid batteries
-- Mercury (Quecksilber)
-- Acids
-- Bleach
-- Peroxides
-- Samsung Galaxy Note 7
-- Batteries >=100Wh
-- Self-balancing scooters (hoverboards), unless you remove the battery.
-- (Strong) rare-earth magnets (really small and weak magnets, like the needle of a compass, are okay)
+Check your airline's current baggage and dangerous-goods rules for every flight, alongside the [IATA passenger guidance][flight-goods]. The rules differ for installed batteries, spare batteries, power banks, tools, liquids and medical equipment.
 
-### Not allowed or often problematic on flights, or at least not in hand luggage
-
-- All kind of blades
-  - Knives, even small pocket knives
-  - This includes nail files over 6cm, for some reason
-- Lockpicking equipment
-- Handcuffs
-
-### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand luggage
-
-- Small lighters (one per person)
+- Check battery capacity, quantity limits, permitted baggage and any required airline approval before packing.
+- Spare lithium batteries and power banks belong in cabin baggage, with terminals protected against short circuits. Check the airline's rules for use and storage during the flight as well.
+- Check tools, blades, aerosols, fuel and unusual project equipment individually; something allowed in checked baggage may be prohibited in the cabin.
+- If an item cannot travel with you, ask the carrier about an approved shipping option. A flight restriction does not make ordinary parcel shipping automatically permissible.
 
 ## 🎒 Things to pack
 
@@ -113,13 +94,13 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 - Bring ridiculous amounts of LED strips and other photon emitting devices so we can illuminate ALL the things.
 - Bring battery-powered LEDs/EL-wire/etc to illuminate yourself in the dark (but try not to blind others).
 
-This applies to the Congress Center as well as your hotel windows.
+Coordinate larger installations with your assembly and follow the venue rules. Your hotel windows might enjoy some photons too, if the hotel agrees.
 
 ### Documents
 
 - Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?][41])
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
-  - have them ready before your line up at the cash desk!
+  - save them offline and have them ready before you queue for admission!
   - use PassAndroid (via [F-Droid](https://f-droid.org/packages/org.ligi.passandroid/), via [Google Play](https://play.google.com/store/apps/details?id=org.ligi.passandroid)), [KDE Itinerary](https://apps.kde.org/itinerary) (Linux/Android) or [FossWallet](https://github.com/SeineEloquenz/fosswallet) (Android)
 - Passport or other kind of photo ID (Personalausweis)
 - Driver's license (even an international one)
@@ -139,7 +120,7 @@ When using ATMs/Cash Machines/Bankomaten/Geldautomaten give them a good wiggle b
 
 - Some cash (€uros, or other local currency)
 - Credit card
-- Maestro card (Bankomatkarte, EC-Karte)
+- Debit card (Bankomatkarte)
 - Coins (€uros, for automated vending machines, like public transport tickets)
 - Bitcoin wallet (the encrypted fashion with a good passphrase) or one for your preferred kind of crypto-currency
 - Emergency numbers for your bank so you can lock your credit card/debit card/Bankomatkarte in case it gets lost/stolen/left behind.
@@ -158,7 +139,7 @@ If you're in an emergency shout *HELP!*
 
 If you need help, call for help, there are many, many friendly people around to help you.
 
-Event and location related emergency information is in a separate document for the corresponding event in this repository! You may want to copy that info to a notes application on your smartphone or have a printed card in your wallet.
+Save the [40C3 emergency information](40C3%20Emergency%20Info.md) to your phone or print it for your wallet. It distinguishes Congress phone extensions from public emergency numbers. Files in `archive/` are historical, not current contact lists.
 
 ### Personal hygiene
 
@@ -222,30 +203,18 @@ Check the expiry date of the meds you bring.
 - Anti lice spray
 - Lice shampoo
 
-#### Generic medication
+#### Travel health supplies
 
-- Band-aids/adhesive bandages (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
-- Aspirin (If you partied too long…)
-- Thomapyrin (analgetic)
-- Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
-- Clarityn (or other histamine blocker if you're allergic to something)
-- Blister Pads. You will walk, a lot.
-- Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
-- Contraceptives, prophylactic (contraceptive pill, condoms, etc.)
-- Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
-- Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-- Camomile tea relieves hyperacidity very well
-- Bepanthen
-- Protective masks (FFP2)
-  - Also, extension hooks for mask straps (aka ear protectors, ear savers, mask clips)
-- Covid-19 test kit (according to recommendation of the event you're visiting)
+- Adhesive bandages and blister pads. You will walk, a lot.
+- Any over-the-counter remedies you already use safely; ask a pharmacist if you are unsure what to bring.
+- Protective masks (FFP2), including mask clips or ear protectors if you use them.
+- Test kits according to current event guidance and your needs.
 
 #### Personal medication
 
-Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
-If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38] on site.
-Pack some reserves of your medication. Better to have too much than not enough with you ;-)
-Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III][44] to the [Betäubungsmittelgesetz][45] (e.g. ritalin, medical uses of marihuana). You need [this form][46], filled out and signed by your local doctor.
+Your personal medication does not belong on the public interwebs. This is a reminder to pack it, not an invitation to include it in pull requests. :-)
+
+Pack enough for your stay and possible travel delays. Arrange storage or refrigeration with [C3 CERT][38] in advance if needed. For medicines requiring documentation, check the rules with your prescriber and the authorities for your departure, transit and destination countries before travelling; do not assume one form covers every journey.
 
 ### Clothing
 
@@ -287,42 +256,27 @@ In case something gets lost it can find its way back to you.
 
 Start charging your batteries right now so they're ready when you finish packing and leave.
 
-For travelling abroad there is a handy [World map showing the spread of plug types][40]
+For travelling abroad there is a handy [world map of plug types][40]. Check that your equipment supports the local voltage; a plug adapter does not convert voltage.
 
-- Charger for laptop
-  - Mac: small Duck-head and long ([Schuko Plug][6]) cord
-  - Mac: MagSafe to MagSafe 2 Adapter
-  - Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
-  - Mac: USB-C type connector/charger
-- Plug adaptor from your country of origin to [Schuko Plug][6]
-- 3x to 10x multi-plug power extension (230V AC @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
-- Simple extension cord (230V AC @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
-- Chargers for all those phones, or at least matching cables if you can charge over USB.
-  - iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
-    - USB-A to 30 Pin dock connector (one each)
-  - iPhone 5, iPhone 5S, iPhone 6, iPhone 6+, iPhone 6S, iPhone 6S+, iPhone SE, iPhone 7, iPhone 7+, iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3, iPad mini 2, iPad Air, iPad Air 2, iPad mini 4, iPad Pro
-    - USB-A to Lightning (one each)
-  - most Android phones (and other exotic stuff like WP, Firefox OS, etc)
-    - micro USB cable, or
-  - USB-C cable (to USB A or USB-C)
-  - DECT phones
-    - Charging cradle (with power brick if required)
-- Smart Watches
-  - Charging cable or docking station required to charge
-- A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight. A USB-A to micro USB cable in most cases, maybe already a USB-C cable as well.)
-- A spare plastic card to [fool the power-saving system][42] in your hotel room, while you're not there. (So your gear can charge and the LEDs keep blinking.)
+- Laptop charger, or a USB-C Power Delivery charger that supports the laptop's required power and charging profiles. Test the charger and cable together before leaving.
+- Charging cables for the devices you actually bring: USB-C, Lightning, Micro-USB or a proprietary connector. Bring a spare for your most-used device.
+- Check the power available per port when charging several devices from one charger.
+- A charged power bank and its own charging cable. For flights, check the [airline and dangerous-goods rules](#if-you-travel-by-plane).
+- DECT charging cradle and power supply; smartwatch charger if needed.
+- A suitable plug adapter to [Schuko][6], if required.
+- A sound power strip and extension lead for the hotel or assembly. Check permitted loads and the assembly's power arrangements; do not daisy-chain power strips.
+- MagSafe adapters, 30-pin dock cables and other legacy chargers only if your retro gear needs them. The museum is optional. :-)
 
 #### Laptop and Devices
 
 - Laptop (with a working battery)
-        - Maybe clean display and keyboard while you're at it ;-)
+  - Maybe clean display and keyboard while you're at it ;-)
 - USB flash drives
-  - Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Mastodon, phone (for example DECT, 33C3 GSM extensions), email, name of the assembly you're well known at, owl, raven)
-  - For devices with private information be sure to encrypt them! (VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
+  - Put an OWNER.txt file on them with information on how to contact you in case one gets lost accidentally. (Mastodon, phone (for example your registered Congress extension), email, name of the assembly you're well known at, owl, raven)
+  - Encrypt storage containing private information, using a maintained tool supported by your operating system. Test unlocking it on the devices you will use.
   - Make a GPT Label or Volume label with your online nickname or handle because people can't read your owner.txt file on encrypted devices. You may also create multiple partitions (plaintext and encrypted ones).
   - If physically possible, add an actual label (just write on it/add a tag) with your nick on it – many people will be rightfully hesitant to plug in a found USB stick.
-  - make note of the filesystem used so you know if they will work on the system of the person you want to exchange data with. (FAT32 is a safe bet to work everywhere, for larger files ExFAT should also work on most platforms.)
-  - Mac: NTFS can be read, but not written to without 3rd party software. FAT, ExFAT, HFS+(J), HFSX are fine for current OS X versions, ZFS, Ext2/Ext3/Ext4 and NTFS r/w support need 3rd party software. APFS support is experimental in macOS 10.12 Sierra and available from the command line only.
+  - Test reading and writing your chosen filesystem on the systems you plan to exchange data with, including a file larger than 4 GB if needed.
   - USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
 - Mass storage devices (bring some empty ones to fill with data and/or bring your own data and share it!)
 - Tablet computer, iPad, Android tablet, Microsoft surface
@@ -332,15 +286,17 @@ For travelling abroad there is a handy [World map showing the spread of plug typ
 #### Wireless and HF
 
 - SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30]
-- DVB-T2 dongle, there might be local DVB-T2 transmitter for the streams,
+- DVB-T2 dongle, if a suitable local transmitter is announced for your event.
 - Ham radio equipment, portable, the callsign prefix for CEPT licence holders in Germany is DL (Delta Lima), and DO (Delta Oscar) for CEPT-Novice licensees. Also see [ham radio licensing information for Germany][35]
   - Your ham radio license (Amateurfunklizenz)
-- WiFi router/firewall (to connect to the hotel Wifi/network)
+- Travel router/firewall for the hotel if needed. At Congress, follow the [NOC rules for wireless equipment][1] before enabling an access point.
 - Meshtastic Node
 
 #### Cables and Adapters (Dongles)
 
 You'll forget at least one anyway, so don't worry. Bring a spare to help out friends!
+
+This is an optional gear catalogue, not a requirement to pack every connector ever invented. Serial, parallel, FireWire and early Thunderbolt items below are for projects or retro hardware that actually need them.
 
 ##### USB (A, B, Legacy)
 
@@ -356,9 +312,9 @@ Yes, there are way too many different types of USB cables, connectors and standa
 ##### USB-C
 
 Keep in mind that USB-C *only* refers to the connector, not the charging, signals and alternative modes it actually supports.
-Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is gone) on what a certain manufacturer's cable actually supports.
+Check the manufacturer's specifications and test charging, data transfer and display output with your actual equipment. Label cables with the capabilities you have verified.
 
-- USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
+- USB-C to Micro-USB cable for compatible older peripherals.
 - USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
 - USB-C cable (Check if it does 5Gbit/s or 10Gbit/s USB. It doesn't have to, but helps to *know* before you troubleshoot an issue for hours.)
 - USB-C adapter to
@@ -405,10 +361,10 @@ Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is
 
 ##### Networking (wired and wireless)
 
-- RJ45 Ethernet adapter (from USB-A, USB-C or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
+- RJ45 Ethernet adapter (from USB-A, USB-C or Thunderbolt) if you want to use the wired network, especially for large transfers.
 - Antenna wire for WiFi or ham radio equipment
 - SFP, SFP+ module (copper or fibre)
-- 1-100Gigabit Ethernet Switch (make sure to disable Spanning Tree Protocol for the Switch to work in Congress network)
+- Ethernet switch if your assembly needs one. Confirm connection requirements with the [NOC][1]; do not copy switch settings from a previous Congress.
 - Splicing equipment
 - Ethernet cords (Cat5e/Cat6) of multiple lengths (bring a spare to tether a friend)
 - Datenklo for Dial-Up over Fieldphone
@@ -426,19 +382,12 @@ Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is
 
 #### Mobile and Communications
 
-- Phones
-  - Mobile phone (GSM) one each
-    - for your day-to-day SIM card
-    - for an optional SIM card of the country you travel to
-    - for a local GSM network at the venue,
-  - DECT phone (for the local wireless phone network available at many CCC events)
-  - Be sure to register your extension number at [Eventphone][2] prior to the event.
-  - Check if your DECT model is [compatible with Eventphone][31]
-- SIM cards (your usual one, european SIM [no roaming fees inside EU], CCC SIM)
-- Apple certified SIM eject tool™ (aka bent paperclip) to swap SIM cards
-
-- Smart Watches
-  - Charging cable or cradle
+- Your everyday phone, with a working SIM/eSIM and charging cable.
+- A compatible [DECT handset][31] and charging cradle, or a supported SIP client if offered for the event.
+- Register your extension through [Eventphone][2] and check the current setup instructions before arriving.
+- If you want to try the local mobile network, check the announced SIM/eSIM and device requirements first.
+- Check your provider's roaming conditions for your whole route, including countries outside the EU.
+- Apple certified SIM eject tool™ (aka bent paperclip), if you need to swap a physical SIM.
 
 #### Camera (but please remember to ask if it is ok to take a picture BEFORE taking the picture)
 
@@ -487,10 +436,9 @@ Check out the [USB-C Cable Matrix CryptPad][50] (Note, [Google Doc Copy][35], is
 
 #### RC models
 
-There may be an RC racetrack on site or some other suitable spot to drive or fly your RCs.
-There maybe children roaming around, so please RC responsibly. Also no flying over humans.
+Bring RC gear only for an agreed project or an announced suitable area. Check the event rules and coordinate radio use with the relevant team; do not assume driving or flying is permitted around visitors.
 
-- Electric vehicles are fine, espescially indoors
+- Electric vehicles appropriate for the agreed area
 - Refrain from nitro/gas/fuel burning vehicles
 - bike, trike, quad, Car, Drifter, Monster-Truck, Buggy, Truggy, Short-Course, Crawler, Trailer-Truck
 - Any scale is fine
@@ -506,10 +454,8 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - The usual tools you need for maintenance and the occasional repair
 - Transmitter (and a few pairs of crystals if you run analog FM/AM gear)
   - Check that the frequencies used are legal in your destination country
-  - 2.4GHz digital should be fine almost everywhere
-  - 27MHz, 40MHz are legal for surface vehicles in AT, DE
-  - 35MHz is legal for flying models in AT, DE
-- Inform yourselves if you need a kind of permit for flying with a camera/FPV (AT)
+  - Check frequency, power and licensing requirements for your specific equipment and location.
+- Check applicable permissions before planning drone or FPV flights.
 
 #### Other
 
@@ -531,11 +477,8 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
   - \+ USB Keyboard
   - \+ USB Rodent
   - \+ HDMI cable to connect a display
-- Pocket knife ([Knifes and are forbidden in public transport in Hamburg!][153] [Conforming to the German Weapons Act:][29] Blade must not exceed 12cm; Folding knives with locking blades must not be designed to be opened with one hand. Also, “thrusting weapons” such as daggers, stilettos, swords etc. are restricted items.)
-  - Swiss knife
-  - Victorinox cybertool
-  - Leatherman (check for one-handed opening mechanisms, such as thumb holes or studs)
-- Screw drivers, pit set
+- Project tools, including a multitool only if needed. Before packing a blade, read the [Hamburg Police guidance on knife restrictions and transport exceptions][153] and any rules along your route. Do not assume a pocket knife is permitted just because it is small.
+- Screwdrivers, bit set
 - Soldering iron
   - solder
   - solder pump
@@ -554,10 +497,10 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - Knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
 - More cable ties, maybe in a different colour
 - A blanket
-- A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)
+- A pillow; sleeping bag or camping mat only if your confirmed accommodation requires it.
 - Velcro straps to mount things to other things or people to things
-- Your favourite tea/coffee for [Coffeenerds][39]
-  - reusable coffee mug to get your coffee @[Coffeenerds][39] as environment friendly as possible!
+- Your favourite tea/coffee for sharing. Check the [Hub][12] for coffee projects when the assembly list is available.
+  - Reusable coffee mug
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
 - A bag or folder to keep all your stickers safe and pristine
@@ -568,7 +511,7 @@ There maybe children roaming around, so please RC responsibly. Also no flying ov
 - Personal reusable Tschunk straw, ideally engraved
 - Blåhaj
 
-Please drive responsibly on site! We don't want anyone to end up injured.
+Check the venue rules before bringing personal mobility gear for recreational use, and keep routes accessible. We don't want anyone to end up injured.
 
 - Personal Mobility Device - like:
   - roller skates
@@ -582,7 +525,7 @@ Please drive responsibly on site! We don't want anyone to end up injured.
 
 ## 🐶 If you travel with your dog
 
-Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
+Check the event's animal policy before bringing a dog. For an assistance dog, contact the event's accessibility team in advance about access and practical arrangements.
 
 - Blanket
 - Food (wet & dry, Snacks)
@@ -599,7 +542,7 @@ Please check in advance if dogs are allowed at the event you want to attend. Gui
 Please consider ride-sharing or consolidating all your boxes into one transporter and take a train instead.
 
 - Check out where to park your car (some hotels offer free parking if you register in advance)
-- Make sure you have the [environmental zone sticker][51] on your windshield if you're driving to a German city
+- Check whether your destination or route enters an [environmental zone][51] and whether your vehicle needs a sticker.
 - Make sure that your car is safe to drive
   - Check the pressure in your tires
   - Check the engine oil and refill the windshield washer
@@ -607,109 +550,68 @@ Please consider ride-sharing or consolidating all your boxes into one transporte
 
 ## ⛺️ Camp
 
+This optional section is for outdoor events or separately arranged camping. It is not a claim that 40C3 offers camping.
+
 - Tent
 - Sleeping bag & pillow
 - Air mattress
 - Water proof clothing
-- 230V/16A(*blue*)-to-your-country adaptor & extension (single phase)
-- 230V/32A(*red*)-to-your-country adaptor & extensions (3-phase)
+- Approved outdoor power equipment compatible with the site's supply; arrange any higher-current or three-phase connection with the event's electrical team.
 - Cat5e extension cable (10-100m)
 - Food
 - Bin bags (for rubbish and dirty clothes)
 
 See also the [CampingChecklist](https://github.com/Columbia19/Camping-Checklist) for more camping gear.
 
-### Schedule
+## 📅 Schedule
 
-- Have a look at the [Fahrplan][20] and maybe make a preselection of talks you really “have to”, “want to” or “would be nice to“ see
-- Install one of the Fahrplan apps for Android ([PlayStore][26], [Source][27]) or iOS ([iTunes][28])
-- Be sure to schedule a period of time to get your T-Shirt or pullover/hoodie/zipper (when preordered in the first two days)!
-- To have a sense of train schedules, enter "Hamburg Dammtor" as destination on the [public transport schedule page](https://www.hvv.de/en).
+- Find the Fahrplan and community schedule through the [official 40C3 overview][20] once published. Pick a few talks you really “have to”, “want to” or “would be nice to” see, and leave room for conversations.
+- Prepare a Fahrplan app for Android ([Play Store][26], [source][27]) or iOS ([App Store][28]); check 40C3 support and download the schedule when published.
+- If you pre-order merchandise, note the collection times and deadline from your actual order.
+- Plan your route to Hamburg Messe using the [40C3 travel information][travel] and [HVV](https://www.hvv.de/en). Check the announced entrance and return journey; old CCH directions may take you to the wrong door.
 
 ## 🔒 Securing your devices
 
-All security measures for devices on public Internet networks also apply here – threats might come from untrusted devices *within*, as well as from maleficent third parties *outside* the Congress network. Of course you should have these measures in place everywhere and all the time since event networks are no more or no less dangerous than the internet in general.
+Prepare your devices before you travel. The [40C3 NOC guidance][1] is the source for event network settings; this section was reviewed on **27 October 2026**.
 
-Read the [How to survive guide][1] in the Congress Wiki. There are many excellent tips in there or consult you local [CryptoParty][33] meetup, CCC ERFA or hackspace friends.
+### Backups and recovery
 
-### Backups
+Make fresh backups of the devices you bring and test restoring a few files. Keep a backup somewhere that is not in the same bag as the laptop. Save recovery keys and account recovery information securely and independently of the device they unlock. If you back up during Congress, encrypt that backup too.
 
-Make fresh backups of ALL the devices you bring to CCCongress. Test that you can actually restore data from those backups!
-Have something to backup your laptop on site as well.
+### Updates, encryption and physical access
 
-### PowerOn/BIOS/EFI Password
+- Install operating-system, browser and application updates before leaving.
+- Enable and verify storage encryption using the tools supported by your platform, such as FileVault, BitLocker/device encryption or LUKS. Know how to recover access before changing encryption settings.
+- Use a strong device password or passcode and automatic screen locking. Lock the screen whenever you step away.
+- Shut the device down when leaving it unattended for a longer period. Sleep and hibernation protections depend on the hardware, operating system and configuration; hibernation is not a universal guarantee that encryption keys cannot be recovered.
+- Keep devices with you or securely stored. A firmware password is not a replacement for encryption or physical care.
+- Do not plug in unknown USB devices or install software just because someone hands you a stick.
 
-Make sure you do have set a BIOS or EFI Password to prevent booting from a live CD to attack your system.
+### Network services
 
-### Full disk encryption
+- Enable the host firewall for both IPv4 and IPv6 before connecting. Review listening services and turn off sharing, development servers and remote access you do not need.
+- Treat other participants' devices as untrusted. The NOC warns that wired connections have public IP addresses and unfiltered incoming traffic; default Wi-Fi filtering still allows connections from within the event network.
+- Use authenticated, encrypted protocols for remote services: for example HTTPS for websites and SSH with host-key verification for remote administration. Do not dismiss unexpected certificate or host-key warnings.
+- Run no DHCP server or IPv6 router advertisements on the Congress network. Coordinate unusual network setups with the NOC.
 
-Activate full disk encryption with pre-boot authentication. (Mac: Activate FileVault, FreeBSD: GELI, Linux: Cryptsetup, Windows: ~~Windows? S'SLY?~~ VeraCrypt)
+### Wi-Fi
 
-Make sure your system does suspend to disk (SSD) and not to RAM, so you can't extract the passphrase from RAM via Firewire/Thunderbolt/ColdBoot attack.
+- Use the NOC-recommended `40C3` network and follow its [platform-specific configuration instructions][1], including certificate validation. The network name alone does not authenticate an access point.
+- Disable automatic joining of open or unfamiliar networks. Remove event profiles after the trip if you no longer need them.
+- Keep your phone updated and use its normal screen lock and supported encrypted apps. There is no need to disable all synchronization or push notifications solely because you are at Congress.
+- Check nearby-sharing settings and limit discoverability to the people you intend to share with.
 
-### Backups
+### VPN, if you use one
 
-You did make fresh backups of all your devices, did you?
+Set up and test a trusted endpoint before travelling, for example with [WireGuard][146] or [OpenVPN][16]. Verify which traffic it carries, including DNS, IPv4 and IPv6, and what happens when the tunnel disconnects. A VPN does not replace software updates, certificate checks or your host firewall.
 
-### Servers
+### Mobile connectivity
 
-Check that *all* your server services are using proper TLS. See [bettercrypto.org][15] or other sources you trust for help on how to properly configure your servers. (Mail, Web, VPN, SSH, etc.)
-
-### VPN tunnel
-
-Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal, ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!
-
-- [WireGuard][146]
-- [OpenVPN][16]
-- L2TP/IPSec/IKEv2
-- [SSH][18]
-- [SSHuttle][9]
-- [iodine][17] (DNS tunnel for those pesky for-pay captive portal WiFi networks)
-- [Tor/Vidalia][19]
-
-Don't use PPTP, IKEv1, PSK VPNs anymore, they're known to be insecure.
-Make sure your VPN works with IP and Legacy IP without leaking DNS and other traffic.
-
-Also have those tunnels configured on ALL the devices you intend to use on the local network of the venue, and have it tested. That includes your laptops, phones, tablets, servers, fridge, etc.
-
-### Phones
-
-It is not recommended to connect your smartphone to the congress wifi -- if you still can't resist, here are a few things to consider:
-
-- Make sure that it's **not a 802.11b** device, as it would slow down the complete wifi network.
-- Disable all synchronization services, as they might be using plaintext.
-- Disable all auto-discovery services (network music players, remote control apps, etc …).
-- Make sure there are no known exploits for your device (not that unknown-to-you exploits wouldn't be a possible risk as well…).
-- Turn off push notifications.
-- Update your apps, especially your browser.
-- Use a VPN tunnel if possible.
-- Use a Firewall and only allow the (few) services you trust.
-  - [NetGuard][22] for Android
-- If you don't have a VPN tunnel available, you can use [OnionBrowser][7] (iOS) or [Orbot][orbot] (Android) to surf via Tor (which may be its own kind of risk).
-- Set your GSM network selection to **manual** or you might end up connected to a rogue GSM network.
-
-**If you are unsure** if there are still some services transmitting plaintext data, **do not connect**.
-
-### Pre-paid SIM Cards
-
-Make sure you get a [right sized SIM card][11] for your GSM mobile phone!
-If you need help with buying a SIM card, ask a local for assistance. They're friendly!
-
-Since citizens from the EU can now use their dataplan while roaming within the EU, consider using that if you can. Keep in mind that you may travel through countries that are not part of the EU where you may get charged enormous amounts. You want to turn off mobile data while travelling through those countries.
-
-These SIM cards have proven to work well if you need one. When in doubt, ask people who are local to the country of the venue. They surely can recommend a good prepaid SIM to get.
-
-- [Blau.de][10] (Germany)
-
-### Wifi connection
-
-WIFI connections are identified by their SSID. Some operating systems automatically reconnect to known WIFI networks by default.
-Make sure that your OS is not configured to automatically connect to any networks automatically (for example "OEBB" or "Wifi-on-ICE" for Austrian and German public transport networks respectively), otherwise your device might be tricked into connecting to a malicious network.
+Check your provider's roaming terms and coverage along your route. For the Congress mobile network or DECT/SIP, follow the current [Eventphone][2] instructions. Manual network selection is not a substitute for network authentication.
 
 ## 📫 Staying up-to-date
 
-Most events publish a lot of information about events as they happen. There are many ways to stay in the loop during the event or in between by subscribing to RSS feeds, Twitter accounts, Mastodon accounts, mailing lists and even newsletters [sic].
-For a list of CCC related news sources you may be interested in following, see 'CCCongress Info Channels.md' in this repository.
+Start with the official info pages, event blog/RSS and Matrix channels. See [CCCongress Info Channels](CCCongress%20Info%20Channels.md) for current entry points and the separately archived historical account list.
 
 ## 🪽 Angel special
 
@@ -717,17 +619,17 @@ If you are registered to aid as an angel at congress, consider these tips:
 
 ### Angel Guide
 
-Read the Angel Guide ([de](https://angelguide.c3heaven.de/angelguide_de.pdf)/[en](https://angelguide.c3heaven.de/angelguide_en.pdf)) for infos about the angel system and everything that's associated with it.
+Read the [Angel Guide][150] and check the [40C3 overview][53] for the current Engelsystem and volunteer instructions before registering for shifts.
 
 ### Things to pack as an angel
 
 In addition to the things listed above (and beyond), you might want to also pack these:
 
 - Refillable water bottle
-- DECT phone (seriously. You WILL need one)
+- DECT phone and charger if required for your team or shift; check with your team before arriving.
 - Lanyard and any badge holder you might have lying around
 - Laptop/tablet (depending on your shift/duty)
-- Simple multitool
+- Tools required for your shift, subject to the [travel restrictions][153].
 - Charging cable and euro-adapter (if necessary)
 - A good pair of working shoes
 - Utility belt
@@ -798,59 +700,38 @@ These people have contributed to improve this list for everyone (in no particula
 - [HyperCraft3r][154]
 
 <!-- ## 🔗 Links -->
-[1]:https://events.ccc.de/congress/2019/wiki/index.php/Static:Information_Security
+[1]:https://events.ccc.de/congress/2026/infos/network/
 [2]:https://www.eventphone.de/
 [3]:https://help.ccc.de/
 [4]:http://r0ket.de/
 [5]:https://www.noisebridge.net/wiki/Passport
 [6]:https://en.wikipedia.org/wiki/Schuko
-[7]:https://itunes.apple.com/at/app/onion-browser/id519296448?l=en&mt=8
-[orbot]:https://guardianproject.info/apps/orbot/
-[8]:https://en.wikipedia.org/wiki/Euro_plug
-[9]:https://github.com/sshuttle/sshuttle
-[10]:https://www.blau.de/
-[11]:https://en.wikipedia.org/wiki/Sim_card#Formats "SIM card formats"
-[12]:https://events.ccc.de/congress/2025/infos/startpage.html
-[13]:https://events.ccc.de/congress/2025/hub/en/project/list
-[14]:https://events.ccc.de/congress/2025/hub/en/assembly/list
-[15]:https://bettercrypto.org/ "Better Crypto"
+[12]:https://events.ccc.de/congress/2026/hub/
 [16]:https://openvpn.net/ "OpenVPN"
-[17]:http://code.kryo.se/iodine/ "iodine"
-[18]:http://openssh.org/ "OpenSSH"
-[19]:https://www.torproject.org/ "Tor Project"
-[20]:https://events.ccc.de/congress/2025/hub/en/schedule
+[20]:https://events.ccc.de/congress/2026/
 [21]:https://www.organspende-info.de
-[22]:https://f-droid.org/de/packages/eu.faircode.netguard/
 [24]:https://wifipineapple.com/ "WiFi Pineapple"
 [25]:https://greatscottgadgets.com/throwingstar/ "Throwing star"
 [26]:https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule
 [27]:https://github.com/EventFahrplan/EventFahrplan
-[28]:https://apps.apple.com/de/app/congress-39c3/id941205524
-[29]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
+[28]:https://apps.apple.com/app/id941205524
 [30]:https://rad1o.badge.events.ccc.de/ "Rad1o Badge, CCCamp 2015"
 [31]:https://eventphone.de/doku/dect_phone_compatibility_list "Eventphone DECT handset compatibility list"
 [32]:https://www.youtube.com/watch?v=J0MUEqzWve8 "YouTube: B.O.O.K."
-[33]:https://www.cryptoparty.in/location "List of international CryptoParty events"
 [34]:http://www.sperr-notruf.de/
 [35]:https://www.darc.de/der-club/referate/ausland/english-version/ "Bundesverband für Amateurfunk in Deutschland - License information for non-germans"
 [37]:https://de.wikipedia.org/wiki/Datenklo "CCC Datenklo - Akustik Koppler"
 [38]:https://cert.ccc.de/ "C3 CERT"
-[39]:https://events.ccc.de/congress/2025/hub/en/assembly/detail/coffeenerds
 [40]:https://www.worldstandards.eu/electricity/spread-plug-types-map/ "World map showing the spread of plug types"
 [41]:https://www.bahn.de/bahnbusiness/faq/muss-ich-mich-zu-meinem-online-ticket-im-zug-zusaetzlich-ausweisen "Deutsche Bahn: Muss ich mich zu meinem Online-Ticket im Zug zusätzlich ausweisen?"
-[42]:http://travel.stackexchange.com/questions/55409/what-is-the-hotel-room-card-slot-inside-the-room-for
 [43]:https://github.com/Columbia19/Camping-Checklist "Columbia19's Campinbg-Checklist on Github!"
-[44]:https://www.gesetze-im-internet.de/btmg_1981/anlage_iii.html
-[45]:https://www.gesetze-im-internet.de/btmg_1981/
-[46]:https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen/reise_scheng_formular.pdf?__blob=publicationFile&v=3
 [48]:https://www.youtube.com/watch?v=HXi1g6lueTo
 [49]:https://en.wikipedia.org/wiki/Towel_Day
-[50]:https://pads.c3w.at/pad/#/2/pad/edit/-MsZU1EAGE5+5fxDfxqlG6He/ "USB-C Cable Matrix Pad"
 [51]:https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany "Environmental Zone Info for Germany"
 [52]:https://card10.badge.events.ccc.de "CCC Card10 Badge"
-[53]:https://events.ccc.de/congress/2025/infos/startpage.html
-[54]:https://matrix.to/#/#39c3:events.ccc.de
-[55]:https://tickets.events.ccc.de/39c3-merch/
+[53]:https://events.ccc.de/congress/2026/
+[54]:https://matrix.to/#/#40c3:events.ccc.de
+[55]:https://events.ccc.de/
 [56]:https://flow3r.garden/
 
 [100]:https://twitter.com/Astarioth
@@ -904,7 +785,10 @@ These people have contributed to improve this list for everyone (in no particula
 [148]:https://mastodon.social/@iwonder
 [149]:https://github.com/Phil5555
 [150]:https://guide.c3heaven.de/index.de.html
-[151]:https://engel.events.ccc.de
 [152]:https://github.com/Obsidi88
 [153]:https://www.polizei.hamburg/services/recht/waffen-und-messerverbot-oepnv-und-weitere-gebiete
 [154]:https://chaos.social/@HyperCraft3r
+
+[contacts]:https://events.ccc.de/congress/2026/infos/communication/
+[travel]:https://events.ccc.de/congress/2026/infos/travel/
+[flight-goods]:https://www.iata.org/en/programs/cargo/dangerous-goods/dgr-guidance-passengers/
